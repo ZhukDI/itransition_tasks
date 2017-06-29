@@ -1,0 +1,8 @@
+source "https://rubygems.org" do
+	gem 'faker'
+	gem 'activesupport'
+	gem 'selenium-client'
+	gem 'selenium-webdriver'
+	gem 'rspec'
+	gem 'capybara'
+end
